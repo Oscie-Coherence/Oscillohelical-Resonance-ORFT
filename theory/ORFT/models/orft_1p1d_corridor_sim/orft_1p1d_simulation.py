@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-ORFT — 1+1D Corridor-Locked Phase Field Simulation (Partner-Safe)
+ORFT — 1+1D Corridor-Locked Phase Field Simulation 
 =================================================================
 
 This simulation is a minimal, reproducible numerical demo consistent with ORFT-style
