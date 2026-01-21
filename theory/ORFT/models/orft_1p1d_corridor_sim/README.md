@@ -1,4 +1,4 @@
-# ORFT — 1+1D Corridor-Locked Phase Field Simulation (Partner-Safe)
+# ORFT — 1+1D Corridor-Locked Phase Field Simulation 
 
 This folder contains a minimal, reproducible simulation that demonstrates the ORFT-style behavior described in the ORFT whitepaper appendix:
 - convergence into a narrow coherence corridor (target center near 0.605)
