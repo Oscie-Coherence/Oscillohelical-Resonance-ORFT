@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+out/
+out_orft/
+.snapshots/
+.DS_Store
