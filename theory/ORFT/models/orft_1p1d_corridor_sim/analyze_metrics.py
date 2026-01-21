@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Analyze ORFT sim metrics.csv (partner-safe)
+Analyze ORFT sim metrics.csv 
 -----------------------------------------
 Computes:
 - % steps where global coherence is within [0.59, 0.62]
